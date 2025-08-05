@@ -12,6 +12,7 @@
 - :student: I’m currently learning `typeScript` and `Next.js`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
+- :envelope: Here is my email if you want to contact me via email `lmiguel05c@gmail.com`.
 <br>
 
 ## My Skills Include
