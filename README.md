@@ -55,9 +55,6 @@
   <a href="https://www.linkedin.com/in/luis-miguel-mendez-castaño-87a70622a" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Luis Mendez" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/the.lmiguelo" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="the.lmiguelo" height="30" width="40" /></a>
 </p>
 
 <h2 style="margin: 5px 10px 5px 5px;">Github stats:</h2> 
