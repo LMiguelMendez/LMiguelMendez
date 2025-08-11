@@ -9,7 +9,6 @@
 - :school: I am a `Junior` developer with more than 1 year of work experience.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I continue studying systems engineering at university..
-- :student: I’m currently learning `typeScript` and `Next.js`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
 - :envelope: Here is my email if you want to contact me via email `lmiguel05c@gmail.com`.
